@@ -3,3 +3,6 @@
 Welcome to GitHub
 Automation Testing
 Selenium
+Regression Testng
+
+Smoke Testing
