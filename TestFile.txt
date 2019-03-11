@@ -6,3 +6,4 @@ Selenium
 Regression Testng
 
 Smoke Testing
+final
